@@ -1,0 +1,11 @@
+{
+  "countries": [
+    "mx"
+  ],
+  "keywords": [
+    "contador"
+  ],
+  "location": "Monterrey",
+  "includeDetails": true,
+  "maxItems": 20
+}
